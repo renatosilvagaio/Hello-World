@@ -1,17 +1,7 @@
-# Hello-World
-My first repository
-WebTeste
-Teste
+1
+2
+3
 
-Teste2
 
-Teste3
-sdasd
-asdasd
-asdasd
-BOI
-aa
 
-dkdkdk
-
-a
+10
