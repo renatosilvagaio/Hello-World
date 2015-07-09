@@ -1,2 +1,3 @@
+BEGIN
 ooooo
 rrrrr
